@@ -20,7 +20,6 @@
 
 [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/753298841712721961)
 
-
 [![discord server](https://dcbadge.vercel.app/api/server/tJfcgmVAX7)](https://discord.gg/tJfcgmVAX7)
 
 </div>
