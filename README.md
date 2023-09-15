@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Maulana</h1>
-<h4 align="center">Students who are passionate about becoming fullstacks from Indonesia</h4>
+<p align="center">My name is Rizqi Maulana (17 y.o), I am a developer from Mataram, and this is my github 👋</p>
 
 <div align="center">
   <img src="https://gifdb.com/images/high/happy-cat-working-on-computer-cartoon-c2cinzv2rijwf3en.gif" width="600" height="300"/>
