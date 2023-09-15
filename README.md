@@ -18,7 +18,8 @@
 [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/users/753298841712721961)
 
 <a href="https://discord.gg/tJfcgmVAX7">
-  
-![Discord Banner 2](https://discordapp.com/api/guilds/1056851311439642675/widget.png?style=banner2)
+
+<img src="https://discordapp.com/api/guilds/1056851311439642675/widget.png?style=banner2" alt="IT Enthusiasts"/>
+
 </a>
 </div>
